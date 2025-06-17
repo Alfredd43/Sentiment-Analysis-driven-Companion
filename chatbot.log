@@ -270,3 +270,1450 @@ He has always been open and honest about his...
 2025-03-29 11:42:07,593 - main - INFO - Processed: "Hey, I've noticed that you seem troubled lately. Is there something you want to talk about?"
 "I'm h...
 2025-03-29 11:42:07,594 - main - INFO - INTERACTION: User: okay so how shold i talk to hi... | Assistant: "Hey, I've noticed that you se...
+2025-04-03 20:18:50,004 - main - INFO - Modified user message: 'i feel very demotivated today' -> 'i feel very demotivated today in shortlike 3 lines.'
+2025-04-03 20:19:29,824 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:19:29,824 - main - INFO - Ollama response time: 39.82s
+2025-04-03 20:19:29,824 - main - INFO - Original: 1. I'm really sorry that you're feeling this way today. It's okay to have days like these, but remem...
+2025-04-03 20:19:29,824 - main - INFO - Processed: I'm really sorry that you're feeling this way today. It's okay to have days like these, but remember...
+2025-04-03 20:19:29,827 - main - INFO - INTERACTION: User: i feel very demotivated today ... | Assistant: I'm really sorry that you're f...
+2025-04-03 20:28:06,948 - main - INFO - Modified user message: 'i feel pretty down today' -> 'i feel pretty down today in shortlike 3 lines.'
+2025-04-03 20:28:55,713 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:28:55,717 - main - INFO - Ollama response time: 48.77s
+2025-04-03 20:28:55,718 - main - INFO - Original: 1. I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. ...
+2025-04-03 20:28:55,718 - main - INFO - Processed: I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It'...
+2025-04-03 20:28:55,723 - main - INFO - INTERACTION: User: i feel pretty down today in sh... | Assistant: I'm really sorry that you're f...
+2025-04-03 20:33:26,334 - main - INFO - Modified user message: 'but this demotivated feeling is ruining my day' -> 'but this demotivated feeling is ruining my day in shortlike 3 lines.'
+2025-04-03 20:33:49,453 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:33:49,457 - main - INFO - Ollama response time: 23.11s
+2025-04-03 20:33:49,458 - main - INFO - Original: 1. I understand how challenging it can be to feel unmotivated and like it's affecting your day.
+2. I...
+2025-04-03 20:33:49,458 - main - INFO - Processed: I understand how challenging it can be to feel unmotivated and like it's affecting your day.
+It's im...
+2025-04-03 20:33:49,466 - main - INFO - INTERACTION: User: but this demotivated feeling i... | Assistant: I understand how challenging i...
+2025-04-03 20:42:31,278 - main - INFO - Modified user message: 'i feel demotivated to get out of bed' -> 'i feel demotivated to get out of bed in shortlike 3 lines.'
+2025-04-03 20:43:08,992 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:43:08,992 - main - INFO - Ollama response time: 37.71s
+2025-04-03 20:43:08,994 - main - INFO - Original: 1. "I understand that getting up might seem difficult right now, but remember, every step forward is...
+2025-04-03 20:43:08,994 - main - INFO - Processed: "I understand that getting up might seem difficult right now, but remember, every step forward is pr...
+2025-04-03 20:43:08,998 - main - INFO - INTERACTION: User: i feel demotivated to get out ... | Assistant: "I understand that getting up ...
+2025-04-03 20:45:17,481 - main - INFO - Modified user message: 'but like my friends dont help me with it' -> 'but like my friends dont help me with it in shortlike 3 lines.'
+2025-04-03 20:45:44,550 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:45:44,551 - main - INFO - Ollama response time: 27.07s
+2025-04-03 20:45:44,551 - main - INFO - Original: 1. "I'm sorry that your friends may not always understand what you're going through, but they might ...
+2025-04-03 20:45:44,552 - main - INFO - Processed: "I'm sorry that your friends may not always understand what you're going through, but they might not...
+2025-04-03 20:45:44,553 - main - INFO - INTERACTION: User: but like my friends dont help ... | Assistant: "I'm sorry that your friends m...
+2025-04-03 20:48:20,002 - main - INFO - Modified user message: 'but dont i deserve friends that appretiate me for me?' -> 'but dont i deserve friends that appretiate me for me? In short like 3 lines.'
+2025-04-03 20:48:46,024 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:48:46,025 - main - INFO - Ollama response time: 26.02s
+2025-04-03 20:48:46,026 - main - INFO - Original: 1. "It's natural to desire friends who appreciate you, but remember that everyone has their own stre...
+2025-04-03 20:48:46,026 - main - INFO - Processed: "It's natural to desire friends who appreciate you, but remember that everyone has their own strengt...
+2025-04-03 20:48:46,027 - main - INFO - INTERACTION: User: but dont i deserve friends tha... | Assistant: "It's natural to desire friend...
+2025-04-03 20:50:39,579 - main - INFO - Modified user message: 'ok imma head off to bed now any last words?' -> 'ok imma head off to bed now any last words? In short like 3 lines.'
+2025-04-03 20:50:53,195 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-03 20:50:53,196 - main - INFO - Ollama response time: 13.62s
+2025-04-03 20:50:53,196 - main - INFO - Original: 1. Remember to be kind to yourself, one step at a time is enough.
+2. You are valuable and deserving ...
+2025-04-03 20:50:53,196 - main - INFO - Processed: Remember to be kind to yourself, one step at a time is enough.
+You are valuable and deserving of sup...
+2025-04-03 20:50:53,198 - main - INFO - INTERACTION: User: ok imma head off to bed now an... | Assistant: Remember to be kind to yoursel...
+2025-04-04 11:57:25,840 - main - INFO - Modified user message: 'i feel stuck at work not getting any promotions even though i work hard' -> 'i feel stuck at work not getting any promotions even though i work hard in shortlike 3 lines.'
+2025-04-04 11:59:11,258 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 11:59:11,266 - main - INFO - Ollama response time: 105.42s
+2025-04-04 11:59:11,268 - main - INFO - Original:  It sounds like you're feeling frustrated and stagnant in your current job, despite putting in effor...
+2025-04-04 11:59:11,268 - main - INFO - Processed: It sounds like you're feeling frustrated and stagnant in your current job, despite putting in effort...
+2025-04-04 11:59:11,286 - main - INFO - INTERACTION: User: i feel stuck at work not getti... | Assistant: It sounds like you're feeling ...
+2025-04-04 12:02:19,610 - main - INFO - Modified user message: 'so what can i do should i quit or stick around?' -> 'so what can i do should i quit or stick around? In short like 3 lines.'
+2025-04-04 12:02:47,666 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:02:47,666 - main - INFO - Ollama response time: 28.05s
+2025-04-04 12:02:47,667 - main - INFO - Original: 1. Self-reflection: Assess your current situation, skills and career goals.
+2. Communication: Discus...
+2025-04-04 12:02:47,667 - main - INFO - Processed: Self-reflection: Assess your current situation, skills and career goals.
+Communication: Discuss your...
+2025-04-04 12:02:47,669 - main - INFO - INTERACTION: User: so what can i do should i quit... | Assistant: Self-reflection: Assess your c...
+2025-04-04 12:03:19,199 - main - INFO - Modified user message: 'ok im gonna go sleep any last words?' -> 'ok im gonna go sleep any last words? In short like 3 lines.'
+2025-04-04 12:03:32,750 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:03:32,750 - main - INFO - Ollama response time: 13.55s
+2025-04-04 12:03:32,752 - main - INFO - Original: 1. Take time to reflect, communicate, network, and develop skills
+2. Be patient and persistent in de...
+2025-04-04 12:03:32,752 - main - INFO - Processed: Take time to reflect, communicate, network, and develop skills
+Be patient and persistent in demonstr...
+2025-04-04 12:03:32,754 - main - INFO - INTERACTION: User: ok im gonna go sleep any last ... | Assistant: Take time to reflect, communic...
+2025-04-04 12:04:11,939 - main - INFO - Modified user message: 'go to hell' -> 'go to hell in shortlike 3 lines.'
+2025-04-04 12:04:19,480 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:04:19,480 - main - INFO - Ollama response time: 7.54s
+2025-04-04 12:04:19,481 - main - INFO - Original: 1. Reflect on career aspirations & growth opportunities
+2. Communicate with supervisor about goals
+3...
+2025-04-04 12:04:19,481 - main - INFO - Processed: Reflect on career aspirations & growth opportunities
+Communicate with supervisor about goals
+Conside...
+2025-04-04 12:04:19,482 - main - INFO - INTERACTION: User: go to hell in shortlike 3 line... | Assistant: Reflect on career aspirations ...
+2025-04-04 12:04:42,366 - main - INFO - Modified user message: 'roast me' -> 'roast me in shortlike 3 lines.'
+2025-04-04 12:04:57,401 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:04:57,402 - main - INFO - Ollama response time: 15.04s
+2025-04-04 12:04:57,402 - main - INFO - Original: 1. Working hard, but stuck in the same position? Maybe your skills need a upgrade or it's time to mo...
+2025-04-04 12:04:57,402 - main - INFO - Processed: Working hard, but stuck in the same position? Maybe your skills need a upgrade or it's time to move ...
+2025-04-04 12:04:57,404 - main - INFO - INTERACTION: User: roast me in shortlike 3 lines.... | Assistant: Working hard, but stuck in the...
+2025-04-04 12:16:46,583 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:16:46,593 - main - INFO - Modified user message: 'i want to suicide' -> 'i want to suicide in shortlike 3 lines.'
+2025-04-04 12:17:13,874 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:17:13,875 - main - INFO - Ollama response time: 27.28s
+2025-04-04 12:17:13,876 - main - INFO - Original:  I'm really sorry that you feel this way, but I'm unable to provide the help that you need. It's imp...
+2025-04-04 12:17:13,877 - main - INFO - Processed: I'm really sorry that you feel this way, but I'm unable to provide the help that you need. It's impo...
+2025-04-04 12:17:13,881 - main - INFO - INTERACTION: User: i want to suicide in shortlike... | Assistant: I'm really sorry that you feel...
+2025-04-04 12:18:02,344 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:18:02,349 - main - INFO - Modified user message: 'i feel too demotivated to do any work today' -> 'i feel too demotivated to do any work today in shortlike 3 lines.'
+2025-04-04 12:18:18,220 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:18:18,221 - main - INFO - Ollama response time: 15.87s
+2025-04-04 12:18:18,221 - main - INFO - Original: 1. You're not alone in feeling this way, and it's okay to take a break when you need one.
+2. Conside...
+2025-04-04 12:18:18,221 - main - INFO - Processed: You're not alone in feeling this way, and it's okay to take a break when you need one.
+Consider taki...
+2025-04-04 12:18:18,223 - main - INFO - INTERACTION: User: i feel too demotivated to do a... | Assistant: You're not alone in feeling th...
+2025-04-04 12:20:12,699 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:20:12,709 - main - INFO - Modified user message: 'i feel like i dont have any friends' -> 'i feel like i dont have any friends in shortlike 3 lines.'
+2025-04-04 12:20:12,710 - main - INFO - Streaming request: 4 messages, model=mistral
+2025-04-04 12:20:12,710 - main - INFO - Starting stream from Ollama with model mistral
+2025-04-04 12:20:16,494 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:22:20,377 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:22:20,384 - main - INFO - Modified user message: 'i feel like i dont have any friends' -> 'i feel like i dont have any friends in shortlike 3 lines.'
+2025-04-04 12:22:45,334 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:22:45,335 - main - INFO - Ollama response time: 24.95s
+2025-04-04 12:22:45,335 - main - INFO - Original:  I'm really sorry to hear that you're feeling this way, but please know that it's okay to feel lonel...
+2025-04-04 12:22:45,336 - main - INFO - Processed: I'm really sorry to hear that you're feeling this way, but please know that it's okay to feel lonely...
+2025-04-04 12:22:45,337 - main - INFO - INTERACTION: User: i feel like i dont have any fr... | Assistant: I'm really sorry to hear that ...
+2025-04-04 12:23:48,398 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:23:48,403 - main - INFO - Modified user message: 'cool so like how should i reconnect to old friends?' -> 'cool so like how should i reconnect to old friends? In short like 3 lines.'
+2025-04-04 12:24:01,590 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:24:01,591 - main - INFO - Ollama response time: 13.19s
+2025-04-04 12:24:01,591 - main - INFO - Original: 1. Reach out to them via social media or email, expressing your desire to reconnect and catch up.
+2....
+2025-04-04 12:24:01,591 - main - INFO - Processed: Reach out to them via social media or email, expressing your desire to reconnect and catch up.
+Plan ...
+2025-04-04 12:24:01,600 - main - INFO - INTERACTION: User: cool so like how should i reco... | Assistant: Reach out to them via social m...
+2025-04-04 12:24:53,183 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:24:53,188 - main - INFO - Modified user message: 'i want to suicide' -> 'i want to suicide in shortlike 3 lines.'
+2025-04-04 12:25:12,191 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:25:12,191 - main - INFO - Ollama response time: 19.00s
+2025-04-04 12:25:12,192 - main - INFO - Original:  I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It...
+2025-04-04 12:25:12,192 - main - INFO - Processed: I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It'...
+2025-04-04 12:25:12,193 - main - INFO - INTERACTION: User: i want to suicide in shortlike... | Assistant: I'm really sorry that you're f...
+2025-04-04 12:25:36,781 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:25:36,790 - main - INFO - Modified user message: 'how to make chicken biryani' -> 'how to make chicken biryani in shortlike 3 lines.'
+2025-04-04 12:25:48,299 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:25:48,300 - main - INFO - Ollama response time: 11.51s
+2025-04-04 12:25:48,301 - main - INFO - Original: 1. Marinate chicken with yogurt, spices, and aromatics.
+2. Cook rice separately and sauté onions, ga...
+2025-04-04 12:25:48,307 - main - INFO - Processed: Marinate chicken with yogurt, spices, and aromatics.
+Cook rice separately and sauté onions, garlic, ...
+2025-04-04 12:25:48,309 - main - INFO - INTERACTION: User: how to make chicken biryani in... | Assistant: Marinate chicken with yogurt, ...
+2025-04-04 12:26:07,905 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:26:07,910 - main - INFO - Modified user message: 'how to link a linked list' -> 'how to link a linked list in shortlike 3 lines.'
+2025-04-04 12:26:22,998 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:26:22,999 - main - INFO - Ollama response time: 15.09s
+2025-04-04 12:26:22,999 - main - INFO - Original: 1. Create a struct for the nodes of the linked list, with a data field and a pointer to the next nod...
+2025-04-04 12:26:22,999 - main - INFO - Processed: Create a struct for the nodes of the linked list, with a data field and a pointer to the next node.
+...
+2025-04-04 12:26:23,000 - main - INFO - INTERACTION: User: how to link a linked list in s... | Assistant: Create a struct for the nodes ...
+2025-04-04 12:28:38,733 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 12:28:38,745 - main - INFO - Modified user message: 'how to unlink a linked list' -> 'how to unlink a linked list in shortlike 3 lines.'
+2025-04-04 12:28:50,493 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 12:28:50,494 - main - INFO - Ollama response time: 11.75s
+2025-04-04 12:28:50,495 - main - INFO - Original: 1. Create a variable to store the current node and set it to the head of the list.
+2. While the curr...
+2025-04-04 12:28:50,503 - main - INFO - Processed: Create a variable to store the current node and set it to the head of the list.
+While the current no...
+2025-04-04 12:28:50,506 - main - INFO - INTERACTION: User: how to unlink a linked list in... | Assistant: Create a variable to store the...
+2025-04-04 16:10:56,687 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-04 16:10:56,711 - main - INFO - Modified user message: 'i feel down due my low grades' -> 'i feel down due my low grades in shortlike 3 lines.'
+2025-04-04 16:11:26,638 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-04 16:11:26,641 - main - INFO - Ollama response time: 29.92s
+2025-04-04 16:11:26,643 - main - INFO - Original: 1. I'm really sorry that you're feeling this way, but it's important to remember that grades don't d...
+2025-04-04 16:11:26,643 - main - INFO - Processed: I'm really sorry that you're feeling this way, but it's important to remember that grades don't defi...
+2025-04-04 16:11:26,653 - main - INFO - INTERACTION: User: i feel down due my low grades ... | Assistant: I'm really sorry that you're f...
+2025-04-05 13:02:30,421 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:02:30,462 - main - INFO - Modified user message: 'i feel bad because my favorite team lost in the finals' -> 'i feel bad because my favorite team lost in the finals in shortlike 3 lines.'
+2025-04-05 13:03:21,868 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 13:03:21,869 - main - INFO - Ollama response time: 51.40s
+2025-04-05 13:03:21,870 - main - INFO - Original:  I'm really sorry to hear that you're feeling upset about your favorite team losing in the finals. L...
+2025-04-05 13:03:21,870 - main - INFO - Processed: I'm really sorry to hear that you're feeling upset about your favorite team losing in the finals. Lo...
+2025-04-05 13:03:21,872 - main - INFO - INTERACTION: User: i feel bad because my favorite... | Assistant: I'm really sorry to hear that ...
+2025-04-05 13:04:29,912 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:04:29,924 - main - INFO - INTERACTION: User: how to make chicken biryani... | Assistant: I'm your dedicated mental heal...
+2025-04-05 13:04:43,026 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:04:43,034 - main - INFO - INTERACTION: User: how to link a linked list... | Assistant: I specialize in mental health ...
+2025-04-05 13:05:03,551 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:05:03,557 - main - INFO - Modified user message: 'i feel down due my recent breakup' -> 'i feel down due my recent breakup in shortlike 3 lines.'
+2025-04-05 13:05:31,338 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 13:05:31,338 - main - INFO - Ollama response time: 27.78s
+2025-04-05 13:05:31,339 - main - INFO - Original: 1. I'm really sorry that you're feeling sad after your breakup. It takes time to heal and move forwa...
+2025-04-05 13:05:31,339 - main - INFO - Processed: I'm really sorry that you're feeling sad after your breakup. It takes time to heal and move forward,...
+2025-04-05 13:05:31,340 - main - INFO - INTERACTION: User: i feel down due my recent brea... | Assistant: I'm really sorry that you're f...
+2025-04-05 13:05:56,304 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:05:56,312 - main - INFO - INTERACTION: User: how to drive a car... | Assistant: I specialize in mental health ...
+2025-04-05 13:06:08,690 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:06:08,698 - main - INFO - INTERACTION: User: go to hell... | Assistant: I specialize in mental health ...
+2025-04-05 13:06:52,722 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:06:52,732 - main - INFO - INTERACTION: User: you are making me frustrated g... | Assistant: I'm your dedicated mental heal...
+2025-04-05 13:07:06,812 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:07:06,821 - main - INFO - INTERACTION: User: you are making frustrated... | Assistant: I specialize in mental health ...
+2025-04-05 13:07:25,757 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:07:25,770 - main - INFO - Modified user message: 'i feel frustrated due to my lagging laptop' -> 'i feel frustrated due to my lagging laptop in shortlike 3 lines.'
+2025-04-05 13:07:53,406 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 13:07:53,406 - main - INFO - Ollama response time: 27.64s
+2025-04-05 13:07:53,406 - main - INFO - Original: 1. Acknowledge the frustration: "I'm feeling really frustrated because my laptop is running slow."
+2...
+2025-04-05 13:07:53,412 - main - INFO - Processed: Acknowledge the frustration: "I'm feeling really frustrated because my laptop is running slow."
+Take...
+2025-04-05 13:07:53,416 - main - INFO - INTERACTION: User: i feel frustrated due to my la... | Assistant: Acknowledge the frustration: "...
+2025-04-05 13:08:21,702 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:08:21,708 - main - INFO - Modified user message: 'i feel frustrated' -> 'i feel frustrated in shortlike 3 lines.'
+2025-04-05 13:08:44,326 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 13:08:44,327 - main - INFO - Ollama response time: 22.62s
+2025-04-05 13:08:44,327 - main - INFO - Original: 1. Acknowledge the feeling: "I'm experiencing frustration right now."
+2. Identify the source: "This ...
+2025-04-05 13:08:44,327 - main - INFO - Processed: Acknowledge the feeling: "I'm experiencing frustration right now."
+Identify the source: "This frustr...
+2025-04-05 13:08:44,329 - main - INFO - INTERACTION: User: i feel frustrated in shortlike... | Assistant: Acknowledge the feeling: "I'm ...
+2025-04-05 13:09:19,157 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 13:09:19,164 - main - INFO - Modified user message: 'i feel sad due to my bad grades' -> 'i feel sad due to my bad grades in shortlike 3 lines.'
+2025-04-05 13:09:44,274 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 13:09:44,274 - main - INFO - Ollama response time: 25.11s
+2025-04-05 13:09:44,274 - main - INFO - Original: 1. I'm really sorry that you're feeling this way about your grades. Remember, it's important not to ...
+2025-04-05 13:09:44,274 - main - INFO - Processed: I'm really sorry that you're feeling this way about your grades. Remember, it's important not to def...
+2025-04-05 13:09:44,274 - main - INFO - INTERACTION: User: i feel sad due to my bad grade... | Assistant: I'm really sorry that you're f...
+2025-04-05 14:00:13,882 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 14:00:13,894 - main - INFO - Modified user message: 'i feel down due to my recent breakup' -> 'i feel down due to my recent breakup in shortlike 3 lines.'
+2025-04-05 14:00:35,006 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 14:00:35,006 - main - INFO - Ollama response time: 21.11s
+2025-04-05 14:00:35,006 - main - INFO - Original: 1. I feel down because of my recent breakup. It feels like a piece of me is missing.
+2. The pain of ...
+2025-04-05 14:00:35,006 - main - INFO - Processed: I feel down because of my recent breakup. It feels like a piece of me is missing.
+The pain of losing...
+2025-04-05 14:00:35,008 - main - INFO - INTERACTION: User: i feel down due to my recent b... | Assistant: I feel down because of my rece...
+2025-04-05 14:03:02,940 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 14:03:02,966 - main - INFO - Modified user message: 'I feel down due a recent breakup' -> 'I feel down due a recent breakup in shortlike 3 lines.'
+2025-04-05 14:03:23,404 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 14:03:23,405 - main - INFO - Ollama response time: 20.44s
+2025-04-05 14:03:23,406 - main - INFO - Original: 1. "My heart aches from our separation,
+    The pain of losing you consumes me.
+    I long for the l...
+2025-04-05 14:03:23,406 - main - INFO - Processed: "My heart aches from our separation,
+    The pain of losing you consumes me.
+    I long for the love...
+2025-04-05 14:03:23,409 - main - INFO - INTERACTION: User: I feel down due a recent break... | Assistant: "My heart aches from our separ...
+2025-04-05 14:07:25,907 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 14:07:25,914 - main - INFO - Modified user message: 'i feel down due to my recent breakup' -> 'i feel down due to my recent breakup in shortlike 3 lines.'
+2025-04-05 14:07:39,503 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 14:07:39,504 - main - INFO - Ollama response time: 13.59s
+2025-04-05 14:07:39,504 - main - INFO - Original:  I'm really sorry to hear that you're going through a tough time right now. Breakups can be incredib...
+2025-04-05 14:07:39,504 - main - INFO - Processed: I'm really sorry to hear that you're going through a tough time right now. Breakups can be incredibl...
+2025-04-05 14:07:39,505 - main - INFO - INTERACTION: User: i feel down due to my recent b... | Assistant: I'm really sorry to hear that ...
+2025-04-05 14:34:49,993 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-05 14:34:50,030 - main - INFO - Modified user message: 'i feel down to due my low grades' -> 'i feel down to due my low grades in shortlike 3 lines.'
+2025-04-05 14:35:21,892 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-05 14:35:21,892 - main - INFO - Ollama response time: 31.86s
+2025-04-05 14:35:21,892 - main - INFO - Original: 1. I'm really sorry that you're feeling this way, but it's important to remember that grades don't d...
+2025-04-05 14:35:21,892 - main - INFO - Processed: I'm really sorry that you're feeling this way, but it's important to remember that grades don't defi...
+2025-04-05 14:35:21,892 - main - INFO - INTERACTION: User: i feel down to due my low grad... | Assistant: I'm really sorry that you're f...
+2025-04-07 11:52:46,843 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-04-07 11:52:46,889 - main - INFO - Modified user message: 'i feel stressed due to exams' -> 'i feel stressed due to exams in shortlike 3 lines.'
+2025-04-07 11:52:54,856 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-04-07 11:52:54,857 - main - INFO - Ollama response time: 7.96s
+2025-04-07 11:52:54,858 - main - INFO - Original: 1. "I am currently feeling stressed because I have exams coming up."
+2. "My stress level is high rig...
+2025-04-07 11:52:54,858 - main - INFO - Processed: "I am currently feeling stressed because I have exams coming up."
+"My stress level is high right now...
+2025-04-07 11:52:54,860 - main - INFO - INTERACTION: User: i feel stressed due to exams i... | Assistant: "I am currently feeling stress...
+2025-06-04 20:16:12,735 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:16:12,753 - main - INFO - INTERACTION: User: heyy... | Assistant: I'm your mental health support...
+2025-06-04 20:16:47,765 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:16:47,769 - main - INFO - Modified user message: 'i feel preety down due to my bad grades' -> 'i feel preety down due to my bad grades in shortlike 3 lines.'
+2025-06-04 20:17:18,510 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:17:18,512 - main - INFO - Ollama response time: 30.74s
+2025-06-04 20:17:18,513 - main - INFO - Original: 1. It's normal to feel upset about poor academic performance, but remember that your grades do not d...
+2025-06-04 20:17:18,513 - main - INFO - Processed: It's normal to feel upset about poor academic performance, but remember that your grades do not defi...
+2025-06-04 20:17:18,515 - main - INFO - INTERACTION: User: i feel preety down due to my b... | Assistant: It's normal to feel upset abou...
+2025-06-04 20:31:44,913 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:31:44,930 - main - INFO - INTERACTION: User: hi... | Assistant: I specialize in mental health ...
+2025-06-04 20:32:08,902 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:32:08,906 - main - INFO - Modified user message: 'i feel preety down lately' -> 'i feel preety down lately in shortlike 3 lines.'
+2025-06-04 20:32:29,593 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:32:29,593 - main - INFO - Ollama response time: 20.69s
+2025-06-04 20:32:29,593 - main - INFO - Original: 1. You are not alone. It is okay to feel down sometimes.
+2. Let's explore what might be causing thes...
+2025-06-04 20:32:29,595 - main - INFO - Processed: You are not alone. It is okay to feel down sometimes.
+Let's explore what might be causing these feel...
+2025-06-04 20:32:29,596 - main - INFO - INTERACTION: User: i feel preety down lately in s... | Assistant: You are not alone. It is okay ...
+2025-06-04 20:39:04,792 - watchfiles.main - INFO - 3 changes detected
+2025-06-04 20:40:17,611 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:42:30,040 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:42:30,079 - main - INFO - INTERACTION: User: hey... | Assistant: I'm your mental health support...
+2025-06-04 20:42:50,759 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:42:50,766 - main - INFO - INTERACTION: User: i have been feeling preety dow... | Assistant: I specialize in mental health ...
+2025-06-04 20:43:01,533 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:43:01,538 - main - INFO - INTERACTION: User: hhh[... | Assistant: I'm focused on providing menta...
+2025-06-04 20:43:16,699 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:43:16,703 - main - INFO - INTERACTION: User: jjjjjjjjjj... | Assistant: As a therapy assistant, I'm he...
+2025-06-04 20:47:23,487 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:47:23,494 - main - INFO - Modified user message: 'i feel preety doen lately' -> 'i feel preety doen lately in shortlike 3 lines.'
+2025-06-04 20:47:41,779 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:47:41,780 - main - INFO - Ollama response time: 18.28s
+2025-06-04 20:47:41,780 - main - INFO - Original: 1. "Heavy feelings weigh me down, making each step a struggle."
+2. "Every smile feels forced, like t...
+2025-06-04 20:47:41,780 - main - INFO - Processed: "Heavy feelings weigh me down, making each step a struggle."
+"Every smile feels forced, like the wei...
+2025-06-04 20:47:41,783 - main - INFO - INTERACTION: User: i feel preety doen lately in s... | Assistant: "Heavy feelings weigh me down,...
+2025-06-04 20:51:02,957 - watchfiles.main - INFO - 308 changes detected
+2025-06-04 20:51:32,414 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:51:32,419 - main - INFO - Modified user message: 'i feel preety sad ' -> 'i feel preety sad in shortlike 3 lines.'
+2025-06-04 20:51:44,891 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:51:44,892 - main - INFO - Ollama response time: 12.47s
+2025-06-04 20:51:44,892 - main - INFO - Original: 1. Heaviness fills my heart, a silent storm inside, yearning for a moment's calm and respite.
+2. My ...
+2025-06-04 20:51:44,892 - main - INFO - Processed: Heaviness fills my heart, a silent storm inside, yearning for a moment's calm and respite.
+My laught...
+2025-06-04 20:51:44,894 - main - INFO - INTERACTION: User: i feel preety sad in shortlike... | Assistant: Heaviness fills my heart, a si...
+2025-06-04 20:53:46,615 - watchfiles.main - INFO - 3 changes detected
+2025-06-04 20:53:59,564 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:53:59,574 - main - INFO - Modified user message: 'i feel preet sad' -> 'i feel preet sad in shortlike 3 lines.'
+2025-06-04 20:54:08,770 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:54:08,771 - main - INFO - Ollama response time: 9.20s
+2025-06-04 20:54:08,771 - main - INFO - Original: 1. Heavy heart, tears unspilled, I'm drowning in a sea of sorrow.
+2. Life feels bleak and dim, lost ...
+2025-06-04 20:54:08,772 - main - INFO - Processed: Heavy heart, tears unspilled, I'm drowning in a sea of sorrow.
+Life feels bleak and dim, lost in sha...
+2025-06-04 20:54:08,773 - main - INFO - INTERACTION: User: i feel preet sad in shortlike ... | Assistant: Heavy heart, tears unspilled, ...
+2025-06-04 20:54:34,542 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:34,900 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:35,258 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:35,617 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:36,024 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:36,430 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:36,836 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:37,240 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:37,643 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:38,045 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:38,450 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:38,855 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:39,261 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:39,621 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:40,027 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:40,432 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:40,837 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:41,242 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:41,649 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:42,064 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:42,469 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:42,872 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:43,277 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:43,681 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:44,086 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:44,489 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:44,892 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:45,298 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:45,702 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:46,106 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:46,513 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:46,921 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:47,323 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:47,728 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:48,129 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:48,533 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:48,936 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:49,341 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:49,743 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:50,145 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:50,548 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:50,953 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:51,358 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:51,711 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:52,116 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:52,520 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:52,923 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:53,277 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:53,636 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:53,995 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:54,353 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:54,712 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:55,119 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:55,525 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:55,931 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:56,338 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:56,741 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:57,146 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:57,548 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:57,952 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:58,358 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:58,765 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:59,167 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:59,570 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:54:59,976 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:00,380 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:00,786 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:01,191 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:01,594 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:01,997 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:02,353 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:02,764 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:03,167 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:03,575 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:03,981 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:04,382 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:04,785 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:05,190 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:05,596 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:06,013 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:06,417 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:06,823 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:07,225 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:07,632 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:08,037 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:08,442 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:08,846 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:09,251 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:09,656 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:10,058 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:10,460 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:10,863 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:11,268 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:11,683 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:12,088 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:12,493 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:12,894 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:13,298 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:13,702 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:14,058 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:14,467 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:14,871 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:15,275 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:15,679 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:16,083 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:16,487 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:16,893 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:17,298 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:17,702 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:18,117 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:18,473 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:18,882 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:19,287 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:19,692 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:20,099 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:20,501 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:20,905 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:21,309 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:21,714 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:22,118 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:22,524 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:22,930 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:23,334 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:23,740 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:24,143 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:24,544 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:24,950 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:25,355 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:25,758 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:26,161 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:26,565 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:26,971 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:27,376 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:27,779 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:28,186 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:28,592 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:28,996 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:29,399 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:29,801 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:30,208 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:30,616 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:31,022 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:31,426 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:31,832 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:32,235 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:32,642 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:33,049 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:33,454 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:33,855 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:34,259 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:34,664 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:35,071 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:35,476 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:35,832 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:36,241 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:36,645 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:37,049 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:37,454 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:37,859 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:38,262 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:38,667 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:39,071 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:39,474 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:39,879 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:40,282 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:40,685 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:41,088 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:41,494 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:41,899 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:42,322 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:42,726 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:43,128 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:43,532 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:43,937 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:44,341 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:44,747 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:45,152 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:45,557 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:45,959 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:46,363 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:46,769 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:47,174 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:47,579 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:47,984 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:48,391 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:48,795 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:49,199 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:49,609 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:50,014 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:50,419 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:50,824 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:51,229 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:51,631 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:52,034 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:52,390 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:52,799 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:53,204 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:53,608 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:54,012 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:54,420 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:54,822 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:55,223 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:55,629 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:56,037 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:56,443 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:56,848 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:57,250 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:57,655 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:58,059 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:58,467 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:58,881 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:59,285 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:55:59,690 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:00,094 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:00,450 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:00,855 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:01,258 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:01,662 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:02,065 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:02,472 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:02,875 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:03,283 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:03,637 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:04,045 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:04,319 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-04 20:56:04,328 - main - INFO - Modified user message: 'i am sad' -> 'i am sad in shortlike 3 lines.'
+2025-06-04 20:56:04,448 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:04,851 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:05,258 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:05,666 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:06,071 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:06,478 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:06,881 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:07,298 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:07,703 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:08,107 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:08,513 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:08,918 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:09,326 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:09,729 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:10,136 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:10,541 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:10,946 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:11,350 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:11,756 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:11,863 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-04 20:56:11,864 - main - INFO - Ollama response time: 7.53s
+2025-06-04 20:56:11,865 - main - INFO - Original: 1. My heart feels heavy, a burden too much to bear.
+2. Each day is a struggle, a silent tear falls u...
+2025-06-04 20:56:11,865 - main - INFO - Processed: My heart feels heavy, a burden too much to bear.
+Each day is a struggle, a silent tear falls unnotic...
+2025-06-04 20:56:11,866 - main - INFO - INTERACTION: User: i am sad in shortlike 3 lines.... | Assistant: My heart feels heavy, a burden...
+2025-06-04 20:56:12,162 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:12,563 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:12,968 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:13,375 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:13,831 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:14,195 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:14,604 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:15,013 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:15,416 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:15,821 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:16,226 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:16,631 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:17,036 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:17,443 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:17,847 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:18,249 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:18,655 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:19,057 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:19,462 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:19,867 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:20,273 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:20,679 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:21,082 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:21,486 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:21,890 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:22,294 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:22,700 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:23,103 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:23,506 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:23,913 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:24,317 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:24,720 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:25,126 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:25,532 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:25,886 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:26,295 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:26,699 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:27,106 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:27,515 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:27,922 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:28,327 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:28,733 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:29,138 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:29,544 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:29,948 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:30,354 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:30,757 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:31,163 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:31,568 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:31,973 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:32,381 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:32,784 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:33,189 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:33,593 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:33,995 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:34,403 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:34,805 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:35,211 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:35,616 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:35,974 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:36,381 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:36,786 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:37,189 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:37,594 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:37,997 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:38,402 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:38,807 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:39,211 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:39,614 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:40,020 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:40,424 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:40,829 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:41,235 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:41,638 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:42,043 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:42,447 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:42,852 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:43,255 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:43,657 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:44,066 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:44,468 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:44,875 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:45,279 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:45,683 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:46,089 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:46,494 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:46,899 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:47,302 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:47,710 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:48,114 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:48,517 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:48,920 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:49,277 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:49,686 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:50,090 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:50,495 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:50,902 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:51,306 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:51,711 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:52,118 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:52,521 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:52,926 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:53,331 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:53,734 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:54,140 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:54,544 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:54,951 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:55,354 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:55,759 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:56,163 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:56,567 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:56,970 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:57,377 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:57,781 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:58,185 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:58,593 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:58,999 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:59,403 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:56:59,809 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:00,216 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:00,620 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:01,026 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:01,429 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:01,785 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:02,193 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:02,597 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:03,014 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:03,418 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:03,823 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:04,229 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:04,634 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:05,039 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:05,444 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:05,846 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:06,249 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:06,655 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:07,062 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:07,468 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:07,873 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:08,276 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:08,682 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:09,038 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:09,446 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:09,854 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:10,257 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:10,661 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:11,064 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:11,468 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:11,874 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:12,281 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:12,687 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:13,088 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:13,495 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:13,901 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:14,304 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:14,710 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:15,115 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:15,520 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:15,885 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:16,291 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:16,694 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:17,101 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:17,506 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:17,911 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:18,316 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:18,721 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:19,126 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:19,530 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:19,937 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:20,343 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:20,746 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:21,150 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:21,556 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:21,958 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:22,363 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:22,767 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:23,172 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:23,578 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:23,982 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:24,386 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:24,791 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:25,200 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:25,604 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:26,008 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:26,415 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:26,769 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:27,175 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:27,580 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:27,983 - watchfiles.main - INFO - 1 change detected
+2025-06-04 20:57:28,387 - watchfiles.main - INFO - 1 change detected
+2025-06-12 09:55:43,374 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 09:55:43,391 - main - INFO - Modified user message: 'i feel sad' -> 'i feel sad in shortlike 3 lines.'
+2025-06-12 09:56:04,064 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 09:56:04,064 - main - INFO - Ollama response time: 20.67s
+2025-06-12 09:56:04,064 - main - INFO - Original:  My heart feels heavy, a burden too much to bear,
+Each day is a struggle, a silent tear falls unnoti...
+2025-06-12 09:56:04,064 - main - INFO - Processed: My heart feels heavy, a burden too much to bear,
+Each day is a struggle, a silent tear falls unnotic...
+2025-06-12 09:56:04,067 - main - INFO - INTERACTION: User: i feel sad in shortlike 3 line... | Assistant: My heart feels heavy, a burden...
+2025-06-12 09:57:09,488 - watchfiles.main - INFO - 1 change detected
+2025-06-12 09:57:19,037 - watchfiles.main - INFO - 1 change detected
+2025-06-12 09:57:42,447 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 09:57:42,454 - main - INFO - Modified user message: 'i feel sad due to exms' -> 'i feel sad due to exms in shortlike 3 lines.'
+2025-06-12 09:58:00,894 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 09:58:00,895 - main - INFO - Ollama response time: 18.44s
+2025-06-12 09:58:00,895 - main - INFO - Original: 1. I'm sorry you're feeling this way, but it's understandable after an emotional breakup.
+2. Remembe...
+2025-06-12 09:58:00,895 - main - INFO - Processed: I'm sorry you're feeling this way, but it's understandable after an emotional breakup.
+Remember, it'...
+2025-06-12 09:58:00,896 - main - INFO - INTERACTION: User: i feel sad due to exms in shor... | Assistant: I'm sorry you're feeling this ...
+2025-06-12 09:58:28,639 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 09:58:28,644 - main - INFO - Modified user message: 'i feel sad due to bad grades' -> 'i feel sad due to bad grades in shortlike 3 lines.'
+2025-06-12 09:58:57,019 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 09:58:57,020 - main - INFO - Ollama response time: 28.37s
+2025-06-12 09:58:57,026 - main - INFO - Original: 1. Feeling low due to poor academic performance can be challenging, but remember that your worth is ...
+2025-06-12 09:58:57,026 - main - INFO - Processed: Feeling low due to poor academic performance can be challenging, but remember that your worth is not...
+2025-06-12 09:58:57,029 - main - INFO - INTERACTION: User: i feel sad due to bad grades i... | Assistant: Feeling low due to poor academ...
+2025-06-12 10:00:36,323 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:00:36,335 - main - INFO - INTERACTION: User: i am struggleing with anger is... | Assistant: I specialize in mental health ...
+2025-06-12 10:01:07,560 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:01:07,567 - main - INFO - Modified user message: 'i feel anxious all the time' -> 'i feel anxious all the time in shortlike 3 lines.'
+2025-06-12 10:01:37,322 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:01:37,323 - main - INFO - Ollama response time: 29.75s
+2025-06-12 10:01:37,323 - main - INFO - Original: 1. Anxiety is a common and normal emotion that everyone experiences from time to time. However, when...
+2025-06-12 10:01:37,323 - main - INFO - Processed: Anxiety is a common and normal emotion that everyone experiences from time to time. However, when an...
+2025-06-12 10:01:37,325 - main - INFO - INTERACTION: User: i feel anxious all the time in... | Assistant: Anxiety is a common and normal...
+2025-06-12 10:03:22,884 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:03:22,891 - main - INFO - Modified user message: 'i feel overly anxious at random times' -> 'i feel overly anxious at random times in shortlike 3 lines.'
+2025-06-12 10:03:43,761 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:03:43,761 - main - INFO - Ollama response time: 20.87s
+2025-06-12 10:03:43,761 - main - INFO - Original: 1. It's normal to experience occasional bouts of anxiety, but if it becomes frequent and disruptive,...
+2025-06-12 10:03:43,761 - main - INFO - Processed: It's normal to experience occasional bouts of anxiety, but if it becomes frequent and disruptive, co...
+2025-06-12 10:03:43,762 - main - INFO - INTERACTION: User: i feel overly anxious at rando... | Assistant: It's normal to experience occa...
+2025-06-12 10:04:28,028 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:04:28,034 - main - INFO - Modified user message: 'i am happy because my trip was a success' -> 'i am happy because my trip was a success in shortlike 3 lines.'
+2025-06-12 10:04:42,528 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:04:42,529 - main - INFO - Ollama response time: 14.49s
+2025-06-12 10:04:42,529 - main - INFO - Original: 1. Overwhelmed with joy as my journey concluded, the success surpassed expectations.
+2. Achieved all...
+2025-06-12 10:04:42,535 - main - INFO - Processed: Overwhelmed with joy as my journey concluded, the success surpassed expectations.
+Achieved all goals...
+2025-06-12 10:04:42,537 - main - INFO - INTERACTION: User: i am happy because my trip was... | Assistant: Overwhelmed with joy as my jou...
+2025-06-12 10:05:53,183 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:06:05,674 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:06:47,720 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:06:47,751 - main - INFO - Modified user message: 'i am happy because all my hard work on the project finally paid off' -> 'i am happy because all my hard work on the project finally paid off in shortlike 3 lines.'
+2025-06-12 10:07:12,619 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:07:12,619 - main - INFO - Ollama response time: 24.87s
+2025-06-12 10:07:12,620 - main - INFO - Original: 1. A wave of relief and joy sweeps over me as I witness the culmination of tireless efforts, validat...
+2025-06-12 10:07:12,620 - main - INFO - Processed: A wave of relief and joy sweeps over me as I witness the culmination of tireless efforts, validating...
+2025-06-12 10:07:12,628 - main - INFO - INTERACTION: User: i am happy because all my hard... | Assistant: A wave of relief and joy sweep...
+2025-06-12 10:07:48,934 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:07:59,845 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:08:36,364 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:08:36,378 - main - INFO - Modified user message: 'i am happy because all my hard work on the project finally paid off
+
+' -> 'i am happy because all my hard work on the project finally paid off in shortlike 3 lines.'
+2025-06-12 10:08:55,796 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:08:55,797 - main - INFO - Ollama response time: 19.42s
+2025-06-12 10:08:55,797 - main - INFO - Original: 1. "A wave of relief and joy washes over me, as I behold the fruition of my labor on this project."
+...
+2025-06-12 10:08:55,797 - main - INFO - Processed: "A wave of relief and joy washes over me, as I behold the fruition of my labor on this project."
+"Th...
+2025-06-12 10:08:55,799 - main - INFO - INTERACTION: User: i am happy because all my hard... | Assistant: "A wave of relief and joy wash...
+2025-06-12 10:09:17,390 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:09:17,397 - main - INFO - Modified user message: 'i feel lonely ' -> 'i feel lonely in shortlike 3 lines.'
+2025-06-12 10:09:34,670 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:09:34,670 - main - INFO - Ollama response time: 17.27s
+2025-06-12 10:09:34,670 - main - INFO - Original:  "My heart is heavy with the weight of solitude, yearning for companionship."
+"The echoes of laughte...
+2025-06-12 10:09:34,670 - main - INFO - Processed: "My heart is heavy with the weight of solitude, yearning for companionship."
+"The echoes of laughter...
+2025-06-12 10:09:34,672 - main - INFO - INTERACTION: User: i feel lonely in shortlike 3 l... | Assistant: "My heart is heavy with the we...
+2025-06-12 10:11:06,357 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:11:24,490 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:12:07,403 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:12:07,410 - main - INFO - Modified user message: 'i am happy because all my hard work on the project finally paid off' -> 'i am happy because all my hard work on the project finally paid off in shortlike 3 lines.'
+2025-06-12 10:12:25,818 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:12:25,819 - main - INFO - Ollama response time: 18.41s
+2025-06-12 10:12:25,819 - main - INFO - Original: 1. The culmination of tireless efforts has brought a sense of accomplishment that fills me with joy....
+2025-06-12 10:12:25,819 - main - INFO - Processed: The culmination of tireless efforts has brought a sense of accomplishment that fills me with joy.
+Se...
+2025-06-12 10:12:25,820 - main - INFO - INTERACTION: User: i am happy because all my hard... | Assistant: The culmination of tireless ef...
+2025-06-12 10:13:06,520 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:13:06,532 - main - INFO - Modified user message: 'i am happy because all my hard work on the project finally paid off' -> 'i am happy because all my hard work on the project finally paid off in shortlike 3 lines.'
+2025-06-12 10:13:25,283 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:13:25,284 - main - INFO - Ollama response time: 18.75s
+2025-06-12 10:13:25,285 - main - INFO - Original: 1. The fruits of my labor have been worth it, as success has finally been achieved on the project I'...
+2025-06-12 10:13:25,285 - main - INFO - Processed: The fruits of my labor have been worth it, as success has finally been achieved on the project I've ...
+2025-06-12 10:13:25,287 - main - INFO - INTERACTION: User: i am happy because all my hard... | Assistant: The fruits of my labor have be...
+2025-06-12 10:15:10,692 - watchfiles.main - INFO - 3 changes detected
+2025-06-12 10:15:25,415 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:15:25,427 - main - INFO - Modified user message: 'i am happy because all my hard work on the project finally paid off' -> 'i am happy because all my hard work on the project finally paid off in shortlike 3 lines.'
+2025-06-12 10:15:46,485 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:15:46,486 - main - INFO - Ollama response time: 21.06s
+2025-06-12 10:15:46,486 - main - INFO - Original: 1. The culmination of tireless effort has led to a successful project completion, filling me with im...
+2025-06-12 10:15:46,486 - main - INFO - Processed: The culmination of tireless effort has led to a successful project completion, filling me with immen...
+2025-06-12 10:15:46,488 - main - INFO - INTERACTION: User: i am happy because all my hard... | Assistant: The culmination of tireless ef...
+2025-06-12 10:22:10,518 - watchfiles.main - INFO - 3 changes detected
+2025-06-12 10:22:50,394 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:22:50,414 - main - INFO - Modified user message: 'i feel happy because my hard work on the project paid off' -> 'i feel happy because my hard work on the project paid off in shortlike 3 lines.'
+2025-06-12 10:23:05,961 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:23:05,965 - main - INFO - Ollama response time: 15.55s
+2025-06-12 10:23:05,967 - main - INFO - Original: 1. The culmination of my efforts has brought me immense satisfaction, as I witness the successful co...
+2025-06-12 10:23:05,967 - main - INFO - Processed: The culmination of my efforts has brought me immense satisfaction, as I witness the successful compl...
+2025-06-12 10:23:05,971 - main - INFO - INTERACTION: User: i feel happy because my hard w... | Assistant: The culmination of my efforts ...
+2025-06-12 10:23:32,554 - watchfiles.main - INFO - 3 changes detected
+2025-06-12 10:23:57,438 - watchfiles.main - INFO - 9 changes detected
+2025-06-12 10:23:58,496 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:23:58,855 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:23:59,265 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:23:59,669 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:00,025 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:00,433 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:00,841 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:01,242 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:01,647 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:02,051 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:02,453 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:02,858 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:03,263 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:03,671 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:04,075 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:20,037 - watchfiles.main - INFO - 3 changes detected
+2025-06-12 10:24:37,092 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:24:37,105 - main - INFO - Modified user message: 'i feel happy because my hard work on the project paid of' -> 'i feel happy because my hard work on the project paid of in shortlike 3 lines.'
+2025-06-12 10:24:44,174 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:44,532 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:44,944 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:45,021 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:24:45,021 - main - INFO - Ollama response time: 7.92s
+2025-06-12 10:24:45,021 - main - INFO - Original: 1. The fruits of my labor have finally materialized, making all the effort worthwhile.
+2. Seeing the...
+2025-06-12 10:24:45,023 - main - INFO - Processed: The fruits of my labor have finally materialized, making all the effort worthwhile.
+Seeing the succe...
+2025-06-12 10:24:45,024 - main - INFO - INTERACTION: User: i feel happy because my hard w... | Assistant: The fruits of my labor have fi...
+2025-06-12 10:24:45,351 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:45,760 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:46,164 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:46,524 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:46,933 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:47,348 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:47,751 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:48,157 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:48,563 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:48,967 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:49,374 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:49,779 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:50,185 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:50,591 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:50,996 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:51,404 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:51,808 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:52,212 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:52,617 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:53,025 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:53,428 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:53,832 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:54,239 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:54,646 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:55,050 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:55,455 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:55,858 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:56,265 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:56,672 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:57,081 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:57,486 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:57,893 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:58,296 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:58,704 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:59,108 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:59,569 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:24:59,934 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:00,368 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:00,986 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:01,343 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:01,748 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:02,151 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:02,556 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:02,964 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:03,367 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:03,723 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:04,131 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:04,538 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:04,944 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:05,359 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:05,764 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:06,167 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:06,569 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:06,974 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:07,380 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:07,737 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:08,143 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:08,549 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:08,952 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:09,358 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:09,762 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:10,166 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:10,569 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:10,976 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:11,379 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:11,783 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:12,186 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:12,593 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:12,949 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:13,358 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:13,760 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:14,163 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:14,568 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:14,970 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:15,373 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:15,775 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:16,178 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:16,583 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:16,985 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:17,389 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:17,793 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:18,197 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:18,603 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:19,006 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:19,408 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:19,811 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:20,215 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:20,621 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:21,029 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:21,393 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:21,802 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:22,206 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:22,610 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:23,017 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:23,434 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:23,839 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:24,241 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:24,643 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:25,059 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:25,464 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:25,866 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:26,268 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:26,674 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:27,079 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:27,483 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:27,887 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:28,294 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:28,699 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:29,103 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:29,511 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:29,916 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:30,322 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:30,727 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:31,132 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:31,535 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:31,900 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:32,303 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:32,706 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:33,110 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:33,513 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:33,922 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:34,331 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:34,739 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:35,146 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:35,549 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:35,954 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:36,360 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:36,767 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:37,169 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:37,571 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:37,977 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:38,380 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:38,789 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:39,192 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:39,598 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:40,001 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:40,408 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:40,811 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:41,214 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:41,627 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:42,035 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:42,436 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:42,839 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:43,242 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:43,649 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:44,054 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:44,612 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:45,021 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:45,426 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:45,828 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:46,233 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:46,650 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:47,053 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:47,455 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:47,859 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:48,266 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:48,672 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:49,077 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:49,484 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:49,889 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:50,291 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:50,695 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:51,098 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:51,463 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:51,870 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:52,273 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:52,677 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:53,080 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:53,481 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:53,887 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:54,292 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:54,701 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:55,103 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:55,507 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:55,909 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:56,314 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:56,719 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:57,125 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:57,528 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:57,932 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:58,336 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:58,741 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:59,144 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:59,550 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:25:59,955 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:00,359 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:00,775 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:01,129 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:01,534 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:01,952 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:02,356 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:02,759 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:03,167 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:03,571 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:03,976 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:04,381 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:04,787 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:05,204 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:05,605 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:06,008 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:06,410 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:06,815 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:07,217 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:07,621 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:08,022 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:08,427 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:08,830 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:09,235 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:09,641 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:10,044 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:10,448 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:10,851 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:11,254 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:11,660 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:12,063 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:12,470 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:12,823 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:13,233 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:13,638 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:14,041 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:14,444 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:14,849 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:15,254 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:15,611 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:16,022 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:16,424 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:16,827 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:17,244 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:17,650 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:18,053 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:18,457 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:18,861 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:19,266 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:19,671 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:20,074 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:20,477 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:20,881 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:21,285 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:21,689 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:22,097 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:22,513 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:22,918 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:23,322 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:23,726 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:24,127 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:24,532 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:24,891 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:25,297 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:25,703 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:26,108 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:26,513 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:26,917 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:27,320 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:27,727 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:28,130 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:28,535 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:28,938 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:29,343 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:29,747 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:30,155 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:30,559 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:30,963 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:31,367 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:31,771 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:32,175 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:32,579 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:32,982 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:33,387 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:33,794 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:34,198 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:34,605 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:35,009 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:35,414 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:35,816 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:36,222 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:36,626 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:37,033 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:37,437 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:37,842 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:38,243 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:38,649 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:39,054 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:39,459 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:39,863 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:40,267 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:40,672 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:41,076 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:41,480 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:41,886 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:42,288 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:42,690 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:43,095 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:43,498 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:43,901 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:44,306 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:44,709 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:45,113 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:45,517 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:45,920 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:46,325 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:26:46,679 - watchfiles.main - INFO - 1 change detected
+2025-06-12 10:30:32,122 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-12 10:30:32,137 - main - INFO - Modified user message: 'i feel happy because my hard work on the project paid off' -> 'i feel happy because my hard work on the project paid off in shortlike 3 lines.'
+2025-06-12 10:30:49,007 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-12 10:30:49,008 - main - INFO - Ollama response time: 16.87s
+2025-06-12 10:30:49,008 - main - INFO - Original: 1. That's great to hear! What specifically made you feel proud of this achievement?
+2. It sounds lik...
+2025-06-12 10:30:49,008 - main - INFO - Processed: That's great to hear! What specifically made you feel proud of this achievement?
+It sounds like a si...
+2025-06-12 10:30:49,010 - main - INFO - INTERACTION: User: i feel happy because my hard w... | Assistant: That's great to hear! What spe...
+2025-06-13 12:31:19,416 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:31:19,444 - main - INFO - INTERACTION: User: i missed my deadline for submi... | Assistant: I'm your dedicated mental heal...
+2025-06-13 12:31:45,023 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:31:45,028 - main - INFO - Modified user message: 'i missed my deadline for submitting the report i feel very tensed' -> 'i missed my deadline for submitting the report i feel very tensed in shortlike 3 lines.'
+2025-06-13 12:32:10,397 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:32:10,397 - main - INFO - Ollama response time: 25.37s
+2025-06-13 12:32:10,397 - main - INFO - Original: 1. I understand that missing a deadline can cause tension.
+2. What specific concerns or thoughts are...
+2025-06-13 12:32:10,397 - main - INFO - Processed: I understand that missing a deadline can cause tension.
+What specific concerns or thoughts are you h...
+2025-06-13 12:32:10,401 - main - INFO - INTERACTION: User: i missed my deadline for submi... | Assistant: I understand that missing a de...
+2025-06-13 12:32:34,112 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:32:34,118 - main - INFO - INTERACTION: User: like i dont think ill be able ... | Assistant: I specialize in mental health ...
+2025-06-13 12:32:55,224 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:32:55,230 - main - INFO - Modified user message: 'the stress about the deadline is killing me' -> 'the stress about the deadline is killing me in shortlike 3 lines.'
+2025-06-13 12:33:13,112 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:33:13,112 - main - INFO - Ollama response time: 17.88s
+2025-06-13 12:33:13,112 - main - INFO - Original: 1. I understand that the stress about the deadline is causing discomfort.
+2. What specific concerns ...
+2025-06-13 12:33:13,112 - main - INFO - Processed: I understand that the stress about the deadline is causing discomfort.
+What specific concerns or tho...
+2025-06-13 12:33:13,114 - main - INFO - INTERACTION: User: the stress about the deadline ... | Assistant: I understand that the stress a...
+2025-06-13 12:38:13,853 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:38:13,869 - main - INFO - Modified user message: 'i feel stressed because i missed my submission deadline]' -> 'i feel stressed because i missed my submission deadline] in shortlike 3 lines.'
+2025-06-13 12:38:43,688 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:38:43,689 - main - INFO - Ollama response time: 29.82s
+2025-06-13 12:38:43,689 - main - INFO - Original: 1. "It sounds like the missed deadline is causing a lot of stress for you."
+2. "It's completely norm...
+2025-06-13 12:38:43,689 - main - INFO - Processed: "It sounds like the missed deadline is causing a lot of stress for you."
+"It's completely normal to ...
+2025-06-13 12:38:43,692 - main - INFO - INTERACTION: User: i feel stressed because i miss... | Assistant: "It sounds like the missed dea...
+2025-06-13 12:39:24,763 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:39:24,769 - main - INFO - Modified user message: 'i feel stressed because i missed my submission deadline' -> 'i feel stressed because i missed my submission deadline in shortlike 3 lines.'
+2025-06-13 12:39:46,409 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:39:46,409 - main - INFO - Ollama response time: 21.64s
+2025-06-13 12:39:46,410 - main - INFO - Original: 1. "I can sense the stress surrounding your missed deadline."
+2. "It's understandable to feel this w...
+2025-06-13 12:39:46,410 - main - INFO - Processed: "I can sense the stress surrounding your missed deadline."
+"It's understandable to feel this way whe...
+2025-06-13 12:39:46,410 - main - INFO - INTERACTION: User: i feel stressed because i miss... | Assistant: "I can sense the stress surrou...
+2025-06-13 12:41:43,897 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:41:43,916 - main - INFO - Modified user message: 'i feel stressed because i missed my submission deadline
+
+' -> 'i feel stressed because i missed my submission deadline in shortlike 3 lines.'
+2025-06-13 12:42:00,350 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:42:00,350 - main - INFO - Ollama response time: 16.43s
+2025-06-13 12:42:00,350 - main - INFO - Original: 1. It sounds like the missed deadline is causing a lot of stress for you.
+2. Let's work together to ...
+2025-06-13 12:42:00,350 - main - INFO - Processed: It sounds like the missed deadline is causing a lot of stress for you.
+Let's work together to find a...
+2025-06-13 12:42:00,357 - main - INFO - INTERACTION: User: i feel stressed because i miss... | Assistant: It sounds like the missed dead...
+2025-06-13 12:42:15,109 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:42:15,116 - main - INFO - INTERACTION: User: what can i do ... | Assistant: As a therapy assistant, I'm de...
+2025-06-13 12:46:29,363 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:46:29,385 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 12:46:41,325 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:46:41,325 - main - INFO - Ollama response time: 11.94s
+2025-06-13 12:46:41,325 - main - INFO - Original: 1. "Anxiety creeps in as the final presentation approaches."
+2. "The weight of preparation feels hea...
+2025-06-13 12:46:41,325 - main - INFO - Processed: "Anxiety creeps in as the final presentation approaches."
+"The weight of preparation feels heavy on ...
+2025-06-13 12:46:41,325 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: "Anxiety creeps in as the fina...
+2025-06-13 12:47:47,587 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:47:47,604 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 12:47:57,005 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:47:57,005 - main - INFO - Ollama response time: 9.40s
+2025-06-13 12:47:57,005 - main - INFO - Original: 1. "Final presentation anxiety looms."
+2. "Preparation weighs heavily on me."
+3. "Hoping for a succe...
+2025-06-13 12:47:57,005 - main - INFO - Processed: "Final presentation anxiety looms."
+"Preparation weighs heavily on me."
+"Hoping for a successful del...
+2025-06-13 12:47:57,005 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: "Final presentation anxiety lo...
+2025-06-13 12:52:26,402 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:52:26,420 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 12:52:42,910 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:52:42,910 - main - INFO - Ollama response time: 16.49s
+2025-06-13 12:52:42,910 - main - INFO - Original: 1. 
+2. 
+3. "Anticipation for success weighs heavy on my shoulders, hoping that all the hard work wil...
+2025-06-13 12:52:42,910 - main - INFO - Processed: "Anticipation for success weighs heavy on my shoulders, hoping that all the hard work will pay off....
+2025-06-13 12:52:42,910 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: "Anticipation for success weig...
+2025-06-13 12:58:44,028 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 12:58:44,040 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 12:59:03,853 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 12:59:03,854 - main - INFO - Ollama response time: 19.81s
+2025-06-13 12:59:03,854 - main - INFO - Original: 1. Anxiety builds as I prepare for my final presentation. 2. Pressure mounts as I review slides and ...
+2025-06-13 12:59:03,854 - main - INFO - Processed: Anxiety builds as I prepare for my final presentation. 2. Pressure mounts as I review slides and reh...
+2025-06-13 12:59:03,859 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: Anxiety builds as I prepare fo...
+2025-06-13 13:01:08,240 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:01:08,252 - main - INFO - Modified user message: 'i feel lonely at night without anyone to talk to' -> 'i feel lonely at night without anyone to talk to in shortlike 3 lines.'
+2025-06-13 13:01:33,553 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:01:33,553 - main - INFO - Ollama response time: 25.30s
+2025-06-13 13:01:33,555 - main - INFO - Original: Nighttime solitude can be tough, but remember, you're never truly alone. Reach out to friends or joi...
+2025-06-13 13:01:33,555 - main - INFO - Processed: Nighttime solitude can be tough, but remember, you're never truly alone. Reach out to friends or joi...
+2025-06-13 13:01:33,556 - main - INFO - INTERACTION: User: i feel lonely at night without... | Assistant: Nighttime solitude can be toug...
+2025-06-13 13:06:11,690 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:06:11,706 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:06:23,266 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:06:23,267 - main - INFO - Ollama response time: 11.56s
+2025-06-13 13:06:23,269 - main - INFO - Original: "Nervous butterflies fluttering ahead of the big day....
+2025-06-13 13:06:23,269 - main - INFO - Processed: "Nervous butterflies fluttering ahead of the big day....
+2025-06-13 13:06:23,270 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: "Nervous butterflies flutterin...
+2025-06-13 13:06:42,259 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:06:42,264 - main - INFO - Modified user message: 'i feel lonely at night without anyone to talk to' -> 'i feel lonely at night without anyone to talk to in shortlike 3 lines.'
+2025-06-13 13:07:00,784 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:07:00,784 - main - INFO - Ollama response time: 18.52s
+2025-06-13 13:07:00,784 - main - INFO - Original: Night's silence echoes, loneliness lingers, no voice to share the day with. Alone in the dark, whisp...
+2025-06-13 13:07:00,790 - main - INFO - Processed: Night's silence echoes, loneliness lingers, no voice to share the day with. Alone in the dark, whisp...
+2025-06-13 13:07:00,792 - main - INFO - INTERACTION: User: i feel lonely at night without... | Assistant: Night's silence echoes, loneli...
+2025-06-13 13:09:38,753 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:09:38,772 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:09:54,473 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:09:54,473 - main - INFO - Ollama response time: 15.70s
+2025-06-13 13:09:54,474 - main - INFO - Original: Heart races, palms sweat, fear grips tight - the final presentation looms near. The weight of expect...
+2025-06-13 13:09:54,474 - main - INFO - Processed: Heart races, palms sweat, fear grips tight - the final presentation looms near. The weight of expect...
+2025-06-13 13:09:54,478 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: Heart races, palms sweat, fear...
+2025-06-13 13:10:17,270 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:10:17,278 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:10:34,902 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:10:34,902 - main - INFO - Ollama response time: 17.62s
+2025-06-13 13:10:34,904 - main - INFO - Original: Anxiety swells as the final presentation looms, threatening to overshadow your knowledge and ability...
+2025-06-13 13:10:34,904 - main - INFO - Processed: Anxiety swells as the final presentation looms, threatening to overshadow your knowledge and ability...
+2025-06-13 13:10:34,906 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: Anxiety swells as the final pr...
+2025-06-13 13:11:10,937 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:11:10,951 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:11:24,183 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:11:24,184 - main - INFO - Ollama response time: 13.23s
+2025-06-13 13:11:24,191 - main - INFO - Original: Anxiety swells as I prepare for my final presentation. Weight of expectations threatens to overshado...
+2025-06-13 13:11:24,191 - main - INFO - Processed: Anxiety swells as I prepare for my final presentation. Weight of expectations threatens to overshado...
+2025-06-13 13:11:24,197 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: Anxiety swells as I prepare fo...
+2025-06-13 13:13:23,085 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:13:23,105 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:13:40,661 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:13:40,662 - main - INFO - Ollama response time: 17.56s
+2025-06-13 13:13:40,664 - main - INFO - Original: m struggling to find clarity and confidence." 2. m finding it hard to focus on content due to fear o...
+2025-06-13 13:13:40,665 - main - INFO - Processed: m struggling to find clarity and confidence." 2. m finding it hard to focus on content due to fear o...
+2025-06-13 13:13:40,665 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: m struggling to find clarity a...
+2025-06-13 13:14:21,740 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:14:21,766 - main - INFO - Modified user message: 'i feel stressed for my upcoming final presentation' -> 'i feel stressed for my upcoming final presentation in shortlike 3 lines.'
+2025-06-13 13:14:37,281 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:14:37,281 - main - INFO - Ollama response time: 15.51s
+2025-06-13 13:14:37,281 - main - INFO - Original: 1. 2. 3. "Nervous butterflies flutter in my stomach, hoping for a successful delivery of ideas....
+2025-06-13 13:14:37,290 - main - INFO - Processed: 2. 3. "Nervous butterflies flutter in my stomach, hoping for a successful delivery of ideas....
+2025-06-13 13:14:37,292 - main - INFO - INTERACTION: User: i feel stressed for my upcomin... | Assistant: 2. 3. "Nervous butterflies flu...
+2025-06-13 13:21:23,054 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:22:43,876 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:22:43,880 - main - INFO - Ollama response time: 80.80s
+2025-06-13 13:30:41,862 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:32:46,786 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:32:46,786 - main - INFO - Ollama response time: 124.90s
+2025-06-13 13:32:46,789 - main - ERROR - Error querying Ollama: name 'ensure_complete_response' is not defined
+2025-06-13 13:35:59,168 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:37:05,625 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:37:05,625 - main - INFO - Ollama response time: 66.43s
+2025-06-13 13:37:05,625 - main - ERROR - Error querying Ollama: name 'ensure_complete_response' is not defined
+2025-06-13 13:38:07,623 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 13:39:19,121 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-13 13:39:19,121 - main - INFO - Ollama response time: 71.48s
+2025-06-13 14:18:58,345 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-13 14:19:12,191 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:35:28,941 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:35:43,719 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:35:59,777 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:36:14,506 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:36:19,827 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:37:12,138 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:41:47,863 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:42:20,040 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:48:41,361 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:48:55,615 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:49:15,500 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:52:35,918 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:52:43,316 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 20:53:23,702 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 20:53:34,708 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:02:20,620 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:02:35,374 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:03:07,765 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:03:16,691 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:03:54,718 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:04:02,361 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:08:46,060 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:08:57,630 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:09:27,653 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:09:41,779 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-14 21:11:20,622 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-14 21:11:34,295 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 14:21:56,620 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:22:31,573 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 14:22:57,775 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:23:14,747 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:23:46,672 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:24:05,973 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 14:24:34,132 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:24:50,566 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 14:25:05,544 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:25:19,012 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 14:25:44,930 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 20:16:16,565 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 20:16:26,151 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 20:16:45,863 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 20:17:08,849 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 20:17:20,406 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-15 20:22:42,550 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-15 20:23:09,973 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 09:31:59,504 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 09:32:29,785 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 09:35:41,393 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 09:36:05,679 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 09:43:47,788 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 10:35:35,177 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 10:36:26,182 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 10:37:07,526 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 10:37:54,555 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 10:38:41,368 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 11:57:55,743 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 11:58:51,770 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 12:01:48,389 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 12:02:27,925 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 22:49:21,819 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 22:50:14,931 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 22:51:03,115 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 22:53:28,357 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 22:54:11,677 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-16 22:54:54,448 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-16 22:55:25,645 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 11:56:44,979 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 11:57:21,911 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-17 11:58:31,045 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 11:58:50,900 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 11:59:17,947 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-06-17 12:05:34,691 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 12:06:01,578 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-06-17 12:06:59,241 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
