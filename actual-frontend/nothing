@@ -1,0 +1,96 @@
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+import ollama
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI()
+
+# Enable CORS for frontend communication
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+class ChatRequest(BaseModel):
+    message: str
+    history: list
+
+def query_ollama(messages):
+    """Send a conversation history to the locally running Ollama model and return the response."""
+    response = ollama.chat(model='mistral', messages=messages)
+    return response['message']['content']
+
+@app.post("/chat")
+def chat(request: ChatRequest):
+    try:
+        # Check conversation stage
+        if not request.history:  
+            # If no history, start with a greeting
+            response_text = "Hello! I'm here to chat. How are you feeling today?"
+            messages = [{"role": "assistant", "content": response_text}]
+        elif len(request.history) == 1:
+            # After the greeting, ask if something is wrong
+            response_text = "Is there anything on your mind that you'd like to talk about?"
+            messages = request.history + [{"role": "assistant", "content": response_text}]
+        else:
+            # Only now, pass the message to Ollama for advice
+            messages = [{"role": "system", "content": "You are an empathetic therapist. Respond with understanding and encouragement."}]
+            messages.extend(request.history)
+            messages.append({"role": "user", "content": request.message})
+            
+            response_text = query_ollama(messages)
+            messages.append({"role": "assistant", "content": response_text})
+
+        return {"response": response_text, "history": messages}
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/")
+def root():
+    return {"message": "Therapy Chatbot API is running!"}
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+import ollama
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI()
+
+# Enable CORS for frontend communication
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+class ChatRequest(BaseModel):
+    message: str
+    history: list
+
+def query_ollama(messages):
+    """Send a conversation history to the locally running Ollama model and return the response."""
+    response = ollama.chat(model='mistral', messages=messages)
+    return response['message']['content']
+
+@app.post("/chat")
+def chat(request: ChatRequest):
+    try:
+        messages = [{"role": "system", "content": "You are an empathetic therapist. Respond with understanding and encouragement."}]
+        messages.extend(request.history)
+        messages.append({"role": "user", "content": request.message})
+        
+        response_text = query_ollama(messages)
+        messages.append({"role": "assistant", "content": response_text})
+        
+        return {"response": response_text, "history": messages}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/")
+def root():
+    return {"message": "Therapy Chatbot API is running!"}
