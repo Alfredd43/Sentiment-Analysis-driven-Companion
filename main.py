@@ -151,6 +151,65 @@ class ChatResponse(BaseModel):
     created_at: str
 
 # Enhanced helper functions
+def clean_response_format(text: str) -> str:
+    """Clean up response to ensure no numbered lists or structured formatting"""
+    if not text:
+        return text
+    # Remove numbered lists (1., 2., 3., etc.)
+    text = re.sub(r'^\s*\d+\.\s+', '', text, flags=re.MULTILINE)
+    # Remove bullet points
+    text = re.sub(r'^\s*[-•*]\s+', '', text, flags=re.MULTILINE)
+    # Remove HTML tags like <br />
+    text = re.sub(r'<br\s*/?>', ' ', text, flags=re.IGNORECASE)
+    text = re.sub(r'<[^>]+>', '', text)
+    # Remove extra whitespace and normalize
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = re.sub(r'\s+', ' ', text)
+    # Ensure it's a natural paragraph
+    text = text.strip()
+    return text
+
+def ensure_conversational_format(text: str) -> str:
+    """Ensure response is in a conversational format without numbered points"""
+    # Clean up any structured formatting
+    text = clean_response_format(text)
+    # Remove numbered points format (1., 2., etc.)
+    text = re.sub(r'^\s*\d+\.\s+', '', text, flags=re.MULTILINE)
+    # Remove bullet points if present
+    text = re.sub(r'^\s*[-•*]\s+', '', text, flags=re.MULTILINE)
+    # Convert multiple newlines to double newlines for paragraph separation
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    # Ensure paragraphs are properly formatted
+    paragraphs = [p.strip() for p in text.split('\n\n') if p.strip()]
+    # Join with double newlines to create proper paragraph separation
+    return '\n\n'.join(paragraphs)
+
+def ensure_complete_response(text: str) -> str:
+    """Ensure response is complete without unnecessary truncation"""
+    # Trim leading/trailing whitespace
+    text = text.strip()
+    # Check if text is empty or too short
+    if not text or len(text) < 5:
+        return "I hear you. Your feelings matter."
+    # Ensure response ends with proper punctuation
+    if text[-1] not in ['.', '!', '?']:
+        text += '.'
+    # We still need to make sure responses don't exceed the MAX_MESSAGE_LENGTH
+    settings = get_settings()
+    if len(text) > settings.MAX_MESSAGE_LENGTH - 100:  # Leave some margin
+        # Try to find a good sentence break
+        last_period = max(
+            text.rfind('. ', 0, settings.MAX_MESSAGE_LENGTH - 100),
+            text.rfind('! ', 0, settings.MAX_MESSAGE_LENGTH - 100),
+            text.rfind('? ', 0, settings.MAX_MESSAGE_LENGTH - 100)
+        )
+        if last_period > 100:  # Make sure we have substantial content
+            return text[:last_period+1]
+        else:
+            # If no good break found, just truncate with some margin
+            return text[:settings.MAX_MESSAGE_LENGTH - 103] + "..."
+    return text
+
 def sanitize_user_input(text: str) -> str:
     """Enhanced sanitization while preserving emotional content"""
     text = text.replace("<script>", "").replace("</script>", "")
@@ -360,18 +419,17 @@ async def query_ollama(messages: List[Dict], model: str, temperature: float, top
         )
         
         if "message" in response and "content" in response["message"]:
-            content = response["message"]["content"].strip()
+            # Get the response and ensure it's complete
+            content = response["message"]["content"]
+            if not content or not content.strip():
+                content = "I'm here for you. Your feelings matter, and you're not alone."
+            processed_content = clean_response_format(ensure_conversational_format(ensure_complete_response(content)))
             
-            # Clean up response
-            content = re.sub(r'^\s*\d+\.\s+', '', content, flags=re.MULTILINE)
-            content = re.sub(r'^\s*[-•*]\s+', '', content, flags=re.MULTILINE)
-            content = re.sub(r'\s+', ' ', content).strip()
+            # Log the original and processed content
+            logger.info(f"Original: {content[:100]}...")
+            logger.info(f"Processed: {processed_content[:100]}...")
             
-            # If response is too generic or short, use contextual response
-            if len(content) < 80 or any(generic in content.lower() for generic in ["it's important to", "you should", "try to", "consider"]):
-                content = generate_contextual_response(user_message, conversation_context, conversation_history or [])
-            
-            return {"role": "assistant", "content": content}
+            return {"role": "assistant", "content": processed_content}
         else:
             # Fallback to contextual response
             content = generate_contextual_response(user_message, conversation_context, conversation_history or [])
@@ -382,6 +440,37 @@ async def query_ollama(messages: List[Dict], model: str, temperature: float, top
         conversation_context = extract_conversation_context(conversation_history or [])
         content = generate_contextual_response(user_message, conversation_context, conversation_history or [])
         return {"role": "assistant", "content": content}
+
+async def stream_ollama_response(messages: List[Dict], model: str, temperature: float, top_p: float):
+    settings = get_settings()
+    try:
+        response = ollama.chat(
+            model=model,
+            messages=messages,
+            options={
+                "temperature": temperature,
+                "top_p": top_p,
+                "num_predict": 150,
+                "top_k": 10,
+                "repeat_penalty": 1.1,
+            },
+            stream=True
+        )
+        full_content = ""
+        for chunk in response:
+            content = ""
+            if "message" in chunk and "content" in chunk["message"]:
+                content = chunk["message"]["content"]
+            elif "content" in chunk:
+                content = chunk["content"]
+            if content:
+                full_content += content
+                yield f"data: {json.dumps({'content': full_content})}\n\n"
+        if not full_content:
+            yield f"data: {json.dumps({'content': 'I\'m here for you. Your feelings matter, and you\'re not alone.'})}\n\n"
+    except Exception as e:
+        logger.error(f"Error in streaming response: {e}")
+        yield f"data: {json.dumps({'content': 'I apologize, but I\'m having trouble responding right now. Please try again.'})}\n\n"
 
 async def stream_chat_response(request: ChatRequest, settings: Settings):
     """Enhanced streaming with better conversation continuity"""
